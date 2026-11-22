@@ -2,16 +2,16 @@
 
 **Tải bản mới nhất:** https://github.com/TKieuTho/MMS-download/releases/latest/download/MMS-demo.apk
 
-Phiên bản: 1.3.1 · khoảng 41 MB · yêu cầu Android 10 trở lên
+Phiên bản: 1.4.0 · khoảng 41 MB · yêu cầu Android 10 trở lên
 
-SHA-256: `ea6ca3c6137fe728d6ca930f738190e62c3c30f83b7a27116f70b085d3c0b9c2`
+SHA-256: `0a857f011f3e64b18de1b560e390dd9634cf39527d06907d691c4aa540bfd325`
 
 ## Cài đặt
 
 1. Mở trang này bằng trình duyệt trên điện thoại Android và bấm vào link tải ở trên.
 2. Mở file vừa tải. Nếu máy hỏi, cho phép **cài ứng dụng từ nguồn này** (nguồn không rõ) cho trình duyệt.
 3. Mở ứng dụng, đăng nhập bằng **số CCCD** và mật khẩu do quản trị viên cấp.
-4. Chọn dữ liệu bạn đồng ý chia sẻ. Mặc định không chia sẻ gì, bạn có thể tắt bất cứ lúc nào.
+4. Nhập **giá trị thiết bị** (bắt buộc) và ngày sinh (tùy chọn) khi ứng dụng yêu cầu. Chọn dữ liệu bạn đồng ý chia sẻ. Mặc định không chia sẻ gì, bạn có thể tắt bất cứ lúc nào.
 5. Làm theo khung **"Cấp quyền để ứng dụng hoạt động"** ngay trên màn hình chính (xem bên dưới).
 
 ## Cấp quyền (3 bước, có nút bấm sẵn trong ứng dụng)

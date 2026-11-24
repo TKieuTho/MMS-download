@@ -11,7 +11,7 @@ SHA-256: `794c79511775b70bb88e1c467af9e2302c56743a09bdfa205bf068418589bd95`
 1. Mở trang này bằng trình duyệt trên điện thoại Android và bấm vào link tải ở trên.
 2. Mở file vừa tải. Nếu máy hỏi, cho phép **cài ứng dụng từ nguồn này** (nguồn không rõ) cho trình duyệt.
 3. Mở ứng dụng, đăng nhập bằng **số CCCD** và mật khẩu do quản trị viên cấp.
-4. Chọn dữ liệu bạn đồng ý chia sẻ (ứng dụng, web, thông tin máy). Bạn có thể tắt từng mục bất cứ lúc nào.
+4. Chọn dữ liệu bạn đồng ý chia sẻ (ứng dụng, web, thông tin máy), cấp 4 quyền lần lượt theo hướng dẫn trong ứng dụng, rồi nhập **giá trị thiết bị** (VNĐ, bắt buộc). Bạn có thể tắt từng mục bất cứ lúc nào.
 5. Làm theo khung **"Cấp quyền để ứng dụng hoạt động"** ngay trên màn hình chính (xem bên dưới).
 
 ## Cấp quyền (có nút bấm sẵn trong ứng dụng)

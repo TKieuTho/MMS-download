@@ -2,19 +2,19 @@
 
 **Tải bản mới nhất:** https://github.com/TKieuTho/MMS-download/releases/latest/download/MMS-demo.apk
 
-Phiên bản: 1.4.0 · khoảng 41 MB · yêu cầu Android 10 trở lên
+Phiên bản: 2.3.1 · khoảng 41 MB · yêu cầu Android 10 trở lên
 
-SHA-256: `0a857f011f3e64b18de1b560e390dd9634cf39527d06907d691c4aa540bfd325`
+SHA-256: `794c79511775b70bb88e1c467af9e2302c56743a09bdfa205bf068418589bd95`
 
 ## Cài đặt
 
 1. Mở trang này bằng trình duyệt trên điện thoại Android và bấm vào link tải ở trên.
 2. Mở file vừa tải. Nếu máy hỏi, cho phép **cài ứng dụng từ nguồn này** (nguồn không rõ) cho trình duyệt.
 3. Mở ứng dụng, đăng nhập bằng **số CCCD** và mật khẩu do quản trị viên cấp.
-4. Nhập **giá trị thiết bị** (bắt buộc) và ngày sinh (tùy chọn) khi ứng dụng yêu cầu. Chọn dữ liệu bạn đồng ý chia sẻ. Mặc định không chia sẻ gì, bạn có thể tắt bất cứ lúc nào.
+4. Chọn dữ liệu bạn đồng ý chia sẻ (ứng dụng, web, thông tin máy). Bạn có thể tắt từng mục bất cứ lúc nào.
 5. Làm theo khung **"Cấp quyền để ứng dụng hoạt động"** ngay trên màn hình chính (xem bên dưới).
 
-## Cấp quyền (3 bước, có nút bấm sẵn trong ứng dụng)
+## Cấp quyền (có nút bấm sẵn trong ứng dụng)
 
 **Bước 1. Truy cập dữ liệu sử dụng.** Nếu công tắc bị **mờ** và ghi *"Restricted setting"* (Android chặn quyền nhạy cảm với ứng dụng cài từ file APK):
 
@@ -29,4 +29,4 @@ Không dùng **Buộc dừng**: Android sẽ ngừng mọi tác vụ nền cho �
 
 ## Quyền riêng tư
 
-Ứng dụng không đọc tin nhắn, danh bạ, vị trí hay nội dung màn hình. Bản này dùng để thử nghiệm, chỉ nên dùng với tài khoản do quản trị viên cấp.
+Ứng dụng không đọc tin nhắn, cuộc gọi, danh bạ, vị trí hay nội dung màn hình. Web chỉ ghi tên miền. Thông tin máy gồm pin, sạc, dung lượng và giờ tắt/mở màn hình. Bản này dùng để thử nghiệm, chỉ nên dùng với tài khoản do quản trị viên cấp.
